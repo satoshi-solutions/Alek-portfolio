@@ -13,7 +13,7 @@ const Hero = () => (
     >
         <div className="absolute inset-0 bg-black opacity-50"></div> {/* Dark Overlay */}
         <div className="relative z-10 text-center px-6 sm:px-12">
-            <h1 className="text-5xl sm:text-6xl font-bold mb-4">Hi, I'm Michael Jhon</h1>
+            <h1 className="text-5xl sm:text-6xl font-bold mb-4">Hi, I'm Aleksandar Kostic</h1>
             <div className="flex justify-center">
                 <p className="text-lg sm:text-2xl mb-16 animate-typing border-r-2 border-white whitespace-nowrap overflow-hidden">
                     Senior Full-Stack Developer | Blockchain Developer
@@ -28,7 +28,7 @@ const Hero = () => (
                 Let's Connect
             </Link>
         </div>
-        <span className='text-center font-roboto font-bold absolute text-[18px] max-md:text-[14px] bottom-7 right-6'>"Losing your credit is like losing your lifeline—Once it's gone, everything starts to crumble!" <br />- Michael Jhon</span>
+        <span className='text-center font-roboto font-bold absolute text-[18px] max-md:text-[14px] bottom-7 right-6'>"Losing your credit is like losing your lifeline—Once it's gone, everything starts to crumble!" <br />- Aleksandar Kostic</span>
     </section>
 );
 

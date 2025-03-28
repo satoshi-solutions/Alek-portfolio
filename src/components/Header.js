@@ -9,7 +9,7 @@ const Header = () => {
         <nav className="fixed top-0 left-0 w-full shadow-md z-50">
             <div className="max-w-6xl mx-auto flex justify-between items-center p-6">
                 {/* Logo */}
-                <h1 className="text-2xl font-semibold text-white">Michael Jhon</h1>
+                <h1 className="text-2xl font-semibold text-white">Aleksandar K</h1>
 
                 {/* Desktop Navigation - Hidden on small screens */}
                 <ul className="hidden md:flex space-x-6">
