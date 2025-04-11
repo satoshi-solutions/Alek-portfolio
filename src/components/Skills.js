@@ -10,15 +10,15 @@ const Skills = () => {
     'Tailwind CSS',
     'MongoDB',
     'PostgreSQL',
-    'Python',
+    'Laravel',
     'Solidity',
     'Go',
     'Rust',
-    'DevOps',
+    'Python',
   ];
 
   return (
-    <section id="skills" className="py-16 bg-gradient-to-b from-gray-900 via-gray-850 to-gray-900 text-center opacity-90">
+    <section id="skills" className="py-16 bg-gradient-to-b from-gray-900 via-gray-850 to-gray-900 text-center opacity-80">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-3xl font-semibold text-white mb-8">My Skills</h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">

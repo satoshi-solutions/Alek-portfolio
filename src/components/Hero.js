@@ -16,8 +16,9 @@ const Hero = () => (
             <h1 className="text-5xl sm:text-6xl font-bold mb-4">Hi, I'm Aleksandar Kostic</h1>
             <div className="flex justify-center">
                 <p className="text-lg sm:text-2xl mb-16 animate-typing border-r-2 border-white whitespace-nowrap overflow-hidden">
-                    Senior Full-Stack Developer | Blockchain Developer
+                    Senior Full-Stack Developer | Fully Responsive Frontend & Secure Backend
                 </p>
+                
             </div>
             <Link
                 to="contact"

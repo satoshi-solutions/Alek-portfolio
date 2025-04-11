@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ProjectCard = ({ title, description, image, url }) => (
-  <div className="bg-gradient-to-b from-[rgba(0,0,0,0.7)] via-gray-850 to-gray-900 p-6 rounded-lg shadow-lg transition transform hover:scale-105">
+  <div className="bg-gradient-to-b from-[rgba(0,0,0,1)] via-gray-850 to-gray-900 p-6 rounded-lg shadow-lg transition transform hover:scale-105">
     {image && (
       <img
         src={image}
@@ -11,14 +11,14 @@ const ProjectCard = ({ title, description, image, url }) => (
     )}
     <h3 className="text-xl font-semibold text-white mb-4">{title}</h3>
     <p className="text-white mb-4">{description}</p>
-    {/* <a
+    <a
       href={url}
       target="_blank"
       rel="noopener noreferrer"
       className="text-blue-600 hover:underline"
     >
       View Project
-    </a> */}
+    </a>
   </div>
 );
 

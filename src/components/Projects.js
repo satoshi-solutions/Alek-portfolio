@@ -10,16 +10,16 @@ const Projects = () => {
       url: 'https://scale-in.com/', // Replace with your project URL
     },
     {
-      title: 'Full-stack Dev Assistant',
-      description: 'Simple Dark Theme for Full Stack deveolpers.',
+      title: 'GoBooking',
+      description: 'SaaS Project for Booking System.',
       image: '/images/project2.png', // Replace with your image path
-      url: 'https://example.com/project2', // Replace with your project URL
+      url: 'https://gobooking.biz/', // Replace with your project URL
     },
     {
-      title: 'Token Solutions',
-      description: 'Solana Blockchian Presale Site, Smart Design.',
+      title: 'iVaCay Presale',
+      description: 'BNB .',
       image: '/images/project3.png', // Replace with your image path
-      url: 'https://example.com/project3', // Replace with your project URL
+      url: 'https://ivacay.io/', // Replace with your project URL
     },
   ];
 

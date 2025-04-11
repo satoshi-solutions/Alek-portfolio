@@ -19,7 +19,7 @@ const App = () => (
     <Skills />
     <Contact />
     <footer className="relative opacity-80 bottom-0 left-0 w-full py-2 text-center bg-black text-white text-lg">
-      Copyright © {new Date().getFullYear()} MJ
+      Copyright © {new Date().getFullYear()} Aleksandar Kostic
     </footer>
   </div>
 );
