@@ -17,7 +17,7 @@ const Projects = () => {
     },
     {
       title: 'iVaCay Presale',
-      description: 'Presale Sites on BNB Chain.',
+      description: 'IVAC Presale Site On BNB.',
       image: '/images/project3.png', // Replace with your image path
       url: 'https://ivacay.io/', // Replace with your project URL
     },
